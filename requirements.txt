@@ -1,0 +1,6 @@
+django==2.2.7
+django-model-utils==3.1.2  
+
+
+# written or higher version of these packages can also be used, 
+# but please see the documentation for more information on how to install and use them
